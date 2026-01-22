@@ -1,0 +1,17 @@
+NB:  Vous devez créer un menu en vue terminal.
+
+Exercice 1
+Dans une boutique du quartier on retrouve 5 produits du quotidien: Peluche, bracelet, casserole, bouteille et crème. Chaque objet est disponible en un seul exemplaire dans la boutique. 
+Créez une application qui permet à l'utilisateur d'afficher la liste des produits et de retirer un produit de cette liste.
+L'utilisateur ne peut choisir qu'un produit à la fois.
+Une fois le produit choisi la liste doit se mettre à jour.
+Quand l'utilisateur  quitte l'application, le message "Merci de votre visite" doit apparaître.
+
+
+Exercice 2
+Vous possédez une garde de robe avec des vêtements en plusieurs exemplaires.
+Ecrire un script python qui permet à un utilisateur d'ajouter les objets de sa garde robe et indiquer une quantité.
+A la fin d'un ajout on demandera à l'utilisateur si il veut continuer ou arrêter le programme.
+Tant que l'utilisateur choisit "oui" il peut continuer d'ajouter des accessoires.
+Quand l'utilisateur choisit non, le programme affiche sa liste d'objets à l'écran
+
