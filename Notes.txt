@@ -1,0 +1,37 @@
+Notes
+# A lire ET ET ET ET OHHH faire des recherches. 
+# Surtout faire des recherches ET ET ET OHH tester en même temps dans un code.
+# tester quand ça bloque
+
+
+# En python
+# c'est quoi une collection
+# C'est quoi une fonction
+# ça veut dire quoi ?: une focntion renvoie une valeur
+
+
+
+{ # Fonction
+    # Une fonction est une suite d'instructions logiques
+    # Définir une fonction c'est lui donner un "NOM" et des "PARAMETRES"
+    # Une fonction peut ne pas avoir de PARAMETRE
+    # Une fonction peut avoir autant de paramètres que le developpeur le souhaite.
+    # C'est pas la foire, donc limitez le nombre de paramètres à passer à une fonction.
+    # UN "PARAMETRE" PEUT AUSSI ETRE APPELEE "ARGUMENT": PARAMETRE <=> ARGUMENT
+    # Pour une fonction, retourner une valeur: c'est donner une valeur (souvent à une variable, pas forcément) après son exécution.
+    # Une procédure est une fonction qui ne renvoie pas de valeur
+    # Une fonction peut renvoyer une valeur
+    # Une suite d'instruction qui s'exécute à son appel et qui peut renvoyer une valeur
+    # Un bout de codes que tu appeles dans le programme quand on veut faire un traitement
+    # Exemple de traitement: Afficher "Hello world"
+        # le traitement: print("hello world")
+
+
+    # Action     
+    # action = instruction = evenement
+    # action -> evenement qui peut entrainer un changement d'etat
+    # action utilisateur
+    # mot-clé pour montrer que l'utilisateur peut agir dans le programme
+
+    # Listes
+}

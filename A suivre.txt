@@ -1,0 +1,20 @@
+- Connecter vs code à GitHub
+    installer les extensions github sur vs code
+    Ouvrez le terminal 
+        git config --global user.email
+
+
+-Apprendre à faire un commit 
+    Voici mon premier commit.
+    Voici mon deuxieme commit.
+    Commit n°3
+    Je démarre le test 1.
+    Je crée un depot git dans la branche master.
+
+
+-Corriger les exercices
+
+
+-Travail à donner 
+    Ajouter les fonctions: Modifier et supprimer à l'exercice 2
+
